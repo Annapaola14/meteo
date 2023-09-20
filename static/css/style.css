@@ -1,0 +1,37 @@
+#hero {
+    width: 100%;
+    height: 100vh;
+    background-image: url(https://images.pexels.com/photos/531767/pexels-photo-531767.jpeg?auto=compress&cs=tinysrgb&w=1920&h=1080&dpr=1);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+input {
+    width: 100%;
+}
+
+.flex-fill {
+    flex: 1 !important
+}
+
+#map {
+	height: 300px;
+	width: 750px;
+}
+
+.formWrapper{
+    margin-top: 50px;
+}
+
+
+h1{
+
+font-size: 49px;
+
+}
+
+label,h2{
+
+    font-style: italic;
+}
